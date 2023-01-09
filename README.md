@@ -1,7 +1,7 @@
 # HARU ATTACK
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: HARU<br>
-> Password: HARU<br>
+> Username: HARUKI<br>
+> Password: HARUKI<br>
 
 The source is not mine, I just made a few additions, the original owner of the source DG Quy
 
