@@ -125,7 +125,7 @@ _\  \\\p__`o-o'__\  \\\p__`o-o'__\  \\\p__`o-o'__\  \\\p__`o-o'_
     clear()
 
 def si():
-    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233m1337 \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to HaRu attack CnC! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mGithub: giaquy-Dev \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233m25 Methods Attack!')
+    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233m1337 \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to HaRu attack CnC! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mGithub: giaquy-Dev \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233m25 Methods Attack!|')
     print("")
 
 def tools():
