@@ -182,7 +182,7 @@ def layer7():
                             ╚═╦═══════════════╦═╝
                               \x1b[38;2;0;212;14m║    \x1b[38;2;0;255;255mLayer 7    \x1b[38;2;0;212;14m║
                \x1b[38;2;0;212;14m╔══════════════╩════════╦══════╩══════════════╗
-               ║   goat-bypass         ║   http-get          ║
+               ║    goat-bypass        ║   http-get          ║
                     cloudflare-uam     ║   http-raw          
                     cf-bypass          ║   http-flood        
                                        ║
