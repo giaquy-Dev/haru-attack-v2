@@ -612,15 +612,15 @@ def login():
     clear()
     user = "HARUKI"
     passwd = "HARUKI"
-    username = input("</> Username: ")
-    password = getpass.getpass(prompt='</> Password: ')
+    username = input("<⚡> Username: ")
+    password = getpass.getpass(prompt='<⚡> Password: ')
     if username != user or password != passwd:
         print("")
-        print("</> sai tên người dùng hoặc mật khẩu, thử lại...")
+        print("<⚡> sai tên người dùng hoặc mật khẩu, thử lại...")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("</> Welcome to HaRu CnC!")
-        time.sleep(0.3)
+        print("<⚡> Welcome to HaRu CnC!")
+        time.sleep(0.8)
         ascii_vro()
         main()
 
