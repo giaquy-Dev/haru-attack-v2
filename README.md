@@ -15,7 +15,7 @@ The source is not mine, I just made a few additions, the original owner of the s
 git clone https://github.com/giaquy-Dev/haru-attack-v2
 cd haru-attack-v2
 sudo python3 installer.py
-ulimit -n 999999( linux + termux )
+ulimit -n 999999
 chmod +x *
 sudo python3 haru.py
 ```
